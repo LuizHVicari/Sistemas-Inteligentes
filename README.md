@@ -51,3 +51,19 @@ Crie um classificador baseado na regra 1-rule (ver slides L04). Teu classificado
 1. Deve ser plotado o scatterplot dos pontos e a reta de decisão obtida
 
 1. A acurácia deve ser medida na base de treino e na base de teste
+
+### Trabalho 5
+
+Crie um classificador aleatório. 
+
+1. Teu classificador deverá chutar um conjunto de 100 valores para a reta de decisão. Para cada reta calcule a acurácia na base de dados de teste.
+
+1. Escolha, como regra do classificador, a reta que melhor separa os objetos (melhor acurácia)
+
+1. O objeto final deve conter os métodos fit(), predict() e score() 
+
+1. A base de dados deve ser separada em base de treino e teste. A base de treino deve ter 66% dos dados e a base de teste deve ter 33% dos dados.
+
+1. Deve ser plotado o scatterplot dos pontos e a reta de decisão obtida
+
+1. A acurácia final deve ser medida na base de treino e na base de teste
